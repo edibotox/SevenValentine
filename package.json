@@ -1,0 +1,26 @@
+{
+"name": "sevenvalentine-edibotox",
+"version": "1.0.0",
+"description": "This is a simple JavaScript code snippet to create a fullscreen Valentine's Day heart confession effect using HTML5 Canvas. The code renders a heart-shaped curve on the canvas and continuously updates it to create an animated effect.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/edibotox/SevenValentine.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "edibotox",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
